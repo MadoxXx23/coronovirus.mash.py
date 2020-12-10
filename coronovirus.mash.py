@@ -5,7 +5,7 @@ from yandex_geocoder import Client
 URL = 'https://coronavirus.mash.ru/data2.json'
 HEADERS = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36',
            'accept' : '*/*'}
-API_KEY = 'dd9332fa-fe6a-4c4b-a373-081677c9f41c'
+API_KEY = 'API_KEY_YANDEX'
 
 
 def input_coordinates(vvod_coord):
